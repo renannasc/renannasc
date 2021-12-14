@@ -1,7 +1,10 @@
-## Ola, eu sou a Renan Nascimento Souza, programador em formação rsrs!
+<h1>Ola, me chamo <i>Renan Nascimento Souza</i></h1>
+
+Atualmente estou estundando programação na RocketSeat, portanto programador em formação rsrs!
 
 - 🔭 Atualmente trabalho como Supervisor de T.I.
-- 🌱 Estudando JavaScript, HTML e CSS.
+- 🌱 Estudando JavaScript, HTML,CSS para Front-End
+- 🌱 Estudando ReactJs, NodeJs, Elixir e ReactNative para Back-End 
 
 <div align="center">
   <a href="https://github.com/renannasc">
