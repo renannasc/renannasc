@@ -6,7 +6,7 @@ Atualmente estou estundando programação na RocketSeat, portanto programador em
 - 🌱 Estudando JavaScript, HTML,CSS para Front-End
 - 🌱 Estudando ReactJs, NodeJs, Elixir e ReactNative para Back-End 
 
-<div align="center">
+<div>
   <a href="https://github.com/renannasc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renannasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renannasc&layout=compact&langs_count=7&theme=dracula"/>
