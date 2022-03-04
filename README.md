@@ -4,9 +4,9 @@
 Atualmente programador em formação na RocketSeat rsrs!
 
 
-- 🔥 Atualmente trabalho como Supervisor de T.I.
-- 🔭 Estudando JavaScript, HTML,CSS para Front-End
-- 🔭 Estudando ReactJs, NodeJs, Elixir e ReactNative para Back-End 
+- 🔥 Atualmente estou procurando uma oportunidade como developer.
+- 🔭 Estudando HTML,CSS e JavaScript para Front-End
+- 🔭 Estudando ReactJs, NodeJs, Elixir e ReactNative.
 
 <div>
   <a href="https://github.com/renannasc">
