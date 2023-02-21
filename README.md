@@ -1,4 +1,4 @@
-<h1 align="left">Ola<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Renan Nascimento.</h1>
+<h1 align="left">Ola, eu sou Renan Nascimento.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renannasc&color=yellow" alt="Profile views" /> </p>
 
 Atualmente programador em formação.
